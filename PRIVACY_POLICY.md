@@ -45,7 +45,8 @@ We use the collected information for the following purposes:
 5. **App Improvement**: To ensure the app functions properly on your device
 
 ## Third-Party Services
-At beggining we want to make it clear that we **do not** send any user data to third party AI services
+### At beggining we want to make it clear that we **do not** send any user data to third party AI services
+
 Our app uses the following third-party services:
 
 ### Google Translate API
